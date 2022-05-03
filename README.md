@@ -31,7 +31,6 @@ body {
     height: 100vh;
 }
 
-Here my media query
 
 @media only screen and (max-width: 375px) {
 
