@@ -42,7 +42,7 @@ header img {
     text-align: center;
 }
 
-.container .desc h2 {
+.container .desc h1 {
     padding-bottom: 1rem;
     color: hsl(223, 47%, 23%);
     font-size: 2rem;
@@ -75,7 +75,7 @@ header img {
     padding-right: 5rem;
 }
 
-.pricing ul li h3 {
+.pricing ul li h2 {
     color: hsl(223, 47%, 23%);
 }
 
